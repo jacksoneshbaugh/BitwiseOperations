@@ -473,7 +473,7 @@ Being that the subnet mask is a mask, you might be catching on to its purpose. F
 
 #### Task
 
-In C, write a program that takes in an IPv4 address and a subnet mask and finds and outputs the network address that the IPv4 address lives in.
+In C, write a program that takes in an IPv4 address and a subnet mask and finds and outputs the network address that the IPv4 address lives in. For an example, check the `Chapter 3` folder.
 
 <details>
     <summary>Stuck? Grab a hint.</summary>
