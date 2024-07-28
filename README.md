@@ -488,4 +488,4 @@ I hope this explainer was useful for you! I wrote it because I wanted to learn a
 
 ## About Me
 
-Hi! I'm Jackson, a student of computer science & French at Lafayette College and an aspiring researcher and professor in computer science. I'm currently interested in the fields of bioinformatics and systems. To learn more about me, check out my [site](https://jacksoneshbaugh.github.io).
+Hi! I'm Jackson, a student of computer science & French at Lafayette College and an aspiring researcher and professor in computer science. I'm currently interested in the fields of bioinformatics and low-level programming/systems. To learn more about me, check out my [site](https://jacksoneshbaugh.github.io).
